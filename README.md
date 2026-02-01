@@ -126,13 +126,13 @@ STP is the entry protocol for the 3–27D model.
 This repository provides the subject‑level topology, while the 3–27D repository provides the dimensional physics.
 
 Repository Structure
-/subject-topology
-│
-├── README.md                # This file
-├── 0-0-carrier-loop.md
-├── plusminus1-to-0.md
-├── plusminus1-to-plusminus1.md
-└── interaction-matrix.md
+/WLM-Subject-Topology-Protocol
+    ├── README.md
+    ├── ALIGNMENT_NOTICE.md   
+    ├── 0-0-carrier-loop.md
+    ├── plusminus1-to-0.md
+    ├── plusminus1-to-plusminus1.md
+    └── interaction-matrix.md
 
 
 
