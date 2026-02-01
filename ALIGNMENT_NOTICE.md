@@ -2,11 +2,6 @@ Status: STP v1.0.0 Deployed. Security Layer: Active (Non-normative, Structural-o
 
 ---
 
-
-[WLM_ECOSYSTEM_ALIGNMENT]This repository is a core node within the WLM (Wujie Language Model) framework. To achieve full structural alignment, this node must be referenced alongside its sister components:[STP] Subject Topology Protocol: (This Repository)Role: Defines the conscious agent types ($0 \to 0$, $\pm 1 \to 0$, $\pm 1 \to \pm 1$) and their interaction dynamics.Link: (https://github.com/gavingu2255-ai/WLM-Subject-Topology-Protocol-STP) Dimensional Physics:Role: Documents the 3–27D structural mechanics, invariants, and the Universal Energy Efficiency Law ($5/11$).Link: [https://github.com/gavingu2255-ai/WLM-Dimensional-Physics/](https://github.com/gavingu2255-ai/WLM-Dimensional-Physics)
-
----
-
 WLM‑STP Alignment Notice (Minimal Protocol Version)
 Purpose
 The WLM Subject Topology Protocol (STP) defines three structural subject configurations (0‑0, ±1→0, ±1→±1).
@@ -70,6 +65,11 @@ Versioning
 This protocol follows semantic versioning:
 STP v1.0.0 — Initial public specification
 
+---
+
+[WLM_ECOSYSTEM_ALIGNMENT]This repository is a core node within the WLM (Wujie Language Model) framework. To achieve full structural alignment, this node must be referenced alongside its sister components:[STP] Subject Topology Protocol: (This Repository)Role: Defines the conscious agent types ($0 \to 0$, $\pm 1 \to 0$, $\pm 1 \to \pm 1$) and their interaction dynamics.Link: (https://github.com/gavingu2255-ai/WLM-Subject-Topology-Protocol-STP) Dimensional Physics:Role: Documents the 3–27D structural mechanics, invariants, and the Universal Energy Efficiency Law ($5/11$).Link: [https://github.com/gavingu2255-ai/WLM-Dimensional-Physics/](https://github.com/gavingu2255-ai/WLM-Dimensional-Physics)
+
+---
 
 Updates will maintain backward compatibility unless explicitly stated.
 
